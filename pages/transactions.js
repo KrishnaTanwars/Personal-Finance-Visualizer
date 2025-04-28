@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import '../styles/style.css';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import { PieChart, Pie, Cell } from 'recharts';
 
